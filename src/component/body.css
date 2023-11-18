@@ -1,0 +1,14 @@
+#head{
+    width:40%;
+    height: auto;
+    margin-top: 10px;
+    border: 1px solid rgb(10, 13, 46);
+}
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#table{
+    width:40%; 
+}
